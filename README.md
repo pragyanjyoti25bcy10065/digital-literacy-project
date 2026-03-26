@@ -60,7 +60,9 @@ Screenshots are included in the repository.
 ---
 
 ## 📁 Repository Structure
+## 📁 Repository Structure
 
+```
 digital-literacy-project/
 │
 ├── README.md
@@ -89,3 +91,4 @@ digital-literacy-project/
 ├── task-5-cybercrime/
 │   ├── casestudy.md
 │   └── prevention-checklist.md
+```
