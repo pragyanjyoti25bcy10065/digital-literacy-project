@@ -60,11 +60,32 @@ Screenshots are included in the repository.
 ---
 
 ## 📁 Repository Structure
+
 digital-literacy-project/
 │
 ├── README.md
+├── report/
+│   └── Project_Report.pdf
+│
 ├── task-1-presentation/
+│   └── infographic.png
+│
 ├── task-2-portfolio/
+│   ├── github-profile.png
+│   ├── linkedin-profile.png
+│   └── kaggle-profile.png
+│
 ├── task-3-platforms/
+│   ├── hackerrank-code.png
+│   ├── hackerrank-output.png
+│   ├── google-form.png
+│   └── google-sheet.png
+│
 ├── task-4-email-etiquette/
+│   ├── email-1.txt
+│   ├── email-2.txt
+│   └── social-media-checklist.md
+│
 ├── task-5-cybercrime/
+│   ├── casestudy.md
+│   └── prevention-checklist.md
